@@ -1,11 +1,4 @@
-<<<<<<< HEAD
 HALLÓ HEIMUR
 Hello World?
 PERSHENDETJE BOTE?
-Hi Heimur.
-=======
-HALLÓ HEIMUR!
-Hello World!?
-PERSHENDETJE BOTE?
-Hæhæ Heimur
->>>>>>> 666d322547aaafd641f66e9b06f7860068d26da3
+Hæ Heimur.
