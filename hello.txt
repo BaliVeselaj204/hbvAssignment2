@@ -1,3 +1,4 @@
 HALLÓ HEIMUR
 Hello World?
 PERSHENDETJE BOTE?
+Hi Heimur.
